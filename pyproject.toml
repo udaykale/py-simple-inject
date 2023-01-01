@@ -17,5 +17,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = ""
-"Bug Tracker" = ""
+"Homepage" = "https://github.com/udaykale/py-simple-inject"
+"Bug Tracker" = "https://github.com/udaykale/py-simple-inject/issues"

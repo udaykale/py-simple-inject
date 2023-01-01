@@ -1,4 +1,4 @@
-from src.simple_inject.object_graph import ObjectGraph
+from ..simple_inject.object_graph import ObjectGraph
 
 
 class Container:

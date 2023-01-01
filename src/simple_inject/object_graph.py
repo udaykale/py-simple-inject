@@ -2,7 +2,7 @@ import sys
 from copy import copy
 from functools import reduce
 
-from src import Inject
+from . import Inject
 
 
 class ObjectGraph:
